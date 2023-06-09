@@ -54,7 +54,7 @@ const Header = () => {
         )}
         <Link to="/" className="flex h-5 items-center">
           <img
-            className="h-full hidden dark:md:block"
+            className="h-full hidden md:block"
             src={youtubeLogo}
             alt="Youtube"
           />
